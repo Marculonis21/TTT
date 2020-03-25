@@ -1,8 +1,5 @@
-*Marek Bečvář*
-# Tick-tack-toe 
+# TTT_project
 
-Game with machine learning AI
+AI player for Tick tack toe
 
-Made to test Minmax with machine learning.
-
-Play/Train mode
+MinMax + Neural network project
